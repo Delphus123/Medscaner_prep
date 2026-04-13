@@ -1,0 +1,196 @@
+{
+  "coluna_toracica": {
+    "title": "RESSONÂNCIA MAGNÉTICA DE COLUNA TORÁCICA",
+    "agend": [
+      "Não é necessário jejum",
+      "Tempo de exame: 30–45 minutos",
+      "Claustrofobia relevante — toda a região torácica dentro do imã",
+      "Confirmar ausência de marca-passo (avaliar tipo — MR-conditional podem existir)",
+      "Avaliar função renal se contraste será usado",
+      "Perguntar sobre implantes ortopédicos torácicos (instrumentação de Harrington, barras)",
+      "Informar que será necessário controle respiratório (apneias curtas)",
+      "Perguntar sobre prurido intenso nas costas (patologia a investigar)"
+    ],
+    "anam": [
+      "Qual a indicação? (deformidade, mielopatia, tumor, infecção, dor?)",
+      "Dor torácica ou dorsal com padrão radicular (dor em faixa)?",
+      "Déficit motor ou sensitivo nos membros inferiores?",
+      "Disfunção esfincteriana vesical/anal?",
+      "Febre persistente, sudorese noturna, perda de peso?",
+      "Neoplasia conhecida (mama, pulmão — risco de metástase vertebral)?",
+      "Escoliose ou deformidade torácica conhecida?"
+    ],
+    "triag": [
+      "Metástases vertebrais — compressão medular, destruição do corpo vertebral",
+      "Mieloma múltiplo — lesões punched out, compressão patológica",
+      "Nódulos de Schmorl (hérnia intra-óssea) — comune, geralmente incidental",
+      "Hemangioma vertebral — tipicamente T1/T2 hiperintenso, incidental",
+      "Osteomielite / espondilodiscite — disco e vértebras com edema, realce, abscesso epidural",
+      "Deformidade (escoliose, cifose) — avaliação rotacional dos corpos vertebrais",
+      "Tumor intradural — meningioma (hiperintenso em T2), schwannoma, metástase leptomeníngea"
+    ],
+    "prot": [
+      "Bobina de superfície torácica ou body-array coil",
+      "Sequências: T1 sagital, T2 SPIR/STIR sagital, DWI para tumor/infecção",
+      "Contraste com gadolínio 0,1 mmol/kg para neoplasia e espondilodiscite",
+      "Gating respiratório ou apneias para minimizar artefatos",
+      "Incluir de C7 a L1, com cobertura completa da coluna torácica",
+      "Cortes sagitais 3mm, axiais 4mm perpendiculares ao eixo vertebral",
+      "Avaliar: medula espinhal torácica, discos, corpos vertebrais, costelas adjacentes"
+    ]
+  },
+  "coluna_sacro": {
+    "title": "RESSONÂNCIA MAGNÉTICA DE COLUNA SACRO-COCCÍGEA",
+    "agend": [
+      "Não é necessário jejum",
+      "Tempo de exame: 25–35 minutos",
+      "Claustrofobia geralmente leve para esta região inferior",
+      "Confirmar ausência de marca-passo e avaliar função renal se contraste",
+      "Perguntar sobre trauma na região sacral ou coccígea",
+      "Informar que será posicionado em decúbito dorsal com bobina pélvica",
+      "Cirurgias prévias nesta região (coccixectomía, curetagem sacral)?",
+      "Considerar gel retal como contraste negativo para processo inflamatório"
+    ],
+    "anam": [
+      "Qual a indicação? (dor sacral, coccigodinia, tumor, fístula, infecção?)",
+      "Dor em região sacral específica ou difusa?",
+      "Irradiação para membros inferiores, região glútea ou perineal?",
+      "Disfunção de esfíncter vesical/anal? (indica comprometimento de cone medular ou cauda equina)",
+      "Febre, drenagem de secreção por região sacral? (fístula, abscesso)",
+      "Neoplasia pélvica prévia? (cérvix, reto, próstata)",
+      "Trauma recente ou antigo na região?"
+    ],
+    "triag": [
+      "Coccigodinia — edema do cóccix, subluxação, hipermobilidade",
+      "Fratura de estresse sacral — edema bilateral (Honda sign), típico em osteoporose",
+      "Tumor sacral — cordoma (mais comum), osteossarcoma, metástases, schwannoma",
+      "Cisto sacro (cisto de Tarlov) — incidental, pode causar radiculopatia",
+      "Sacroileíte — avaliar articulações sacroilíacas",
+      "Fístula perianal / abscesso — avaliar com contraste e gel retal (protocolo esfíncter)",
+      "Espondilodiscite — infecção do segmento sacro vertebral"
+    ],
+    "prot": [
+      "Bobina pélvica phased-array",
+      "Sequências: T1 sagital e axial, T2 SPAIR/STIR sagital e axial, difusão",
+      "Contraste com gadolínio 0,1 mmol/kg para tumor, infecção, fístula",
+      "Gel retal (30–50ml) para avaliação de fístulas perianais quando pertinente",
+      "Incluir de L4–L5 até o cóccix, com cobertura de articulações sacroilíacas",
+      "Cortes axiais e coronais oblíquos, 4mm de espessura",
+      "Avaliar medula espinhal baixa, cauda equina, raízes e osso sacral"
+    ]
+  },
+  "angiorm_arterial_cranio": {
+    "title": "RESSONÂNCIA MAGNÉTICA DE ANGIORM ARTERIAL DE CRÂNIO",
+    "agend": [
+      "Sem contraste: jejum não é necessário",
+      "Com contraste: jejum de 4 horas (prevenir náuseas)",
+      "Perguntar sobre implantes metálicos intracranianos (stents, coils, clipes de aneurisma)",
+      "Claustrofobia — RM de campo aberto pode ser necessária",
+      "Informar tempo de exame: 20–35 minutos",
+      "Confirmar ausência de marca-passo convencional (contraindicação absoluta)",
+      "Avaliar função renal se gadolínio será usado (NSF)",
+      "Perguntar sobre reações anteriores a agentes de contraste paramagnético"
+    ],
+    "anam": [
+      "Qual a indicação? (aneurisma, MAV, estenose, AVC isquêmico?)",
+      "História de aneurisma cerebral ou sangramento subaracnóideo?",
+      "Trazer exames anteriores para comparação",
+      "Hipertensão arterial, diabetes, dislipidemia (fatores de risco vascular)?",
+      "AVC prévia ou AIT? Qual território vascular?",
+      "Procedimentos endovasculares prévios (stent, coil)?"
+    ],
+    "triag": [
+      "Aneurismas intracranianos — localização (ACO, ACM, ACoA), tamanho, morfologia (sacular vs. fusiforme)",
+      "Malformações arteriovenosas (MAV) — nidus, drenagem venosa, fístula dural",
+      "Estenose ou oclusão arterial — ateromatose, dissecção, vasculite",
+      "Vasoespasmo pós-hemorrágico — avaliar com TOF ou contraste",
+      "Stroke isquêmico agudo — penumbra isquêmica, core isquêmico (DWI/FLAIR mismatch)",
+      "Developmental venous anomalies (DVA) — malformações venosas developmentais"
+    ],
+    "prot": [
+      "3D TOF (time-of-flight) sem contraste como base — evalua artérias do círculo de Willis",
+      "3D contraste (MRA) com gadolínio 0,1 mmol/kg — bobina phased-array de crânio",
+      "Sequência 3D T1-MPRAGE pós-contraste para parede vascular e trombose",
+      "Incluir artérias: carótidas internas, ACM, ACA, ACP, basilare, vertebrais",
+      "Resolução espacial alta: voxel ≤0,5mm, reconstruções MIP e MPVAR",
+      "Avaliar simultaneamente parênquima (DWI, FLAIR) para excluir processo isquêmico"
+    ]
+  },
+  "angiorm_venosa_cranio": {
+    "title": "RESSONÂNCIA MAGNÉTICA DE ANGIORM VENOSA DE CRÂNIO",
+    "agend": [
+      "Sem contraste: jejum não é necessário",
+      "Com contraste: jejum de 4 horas",
+      "Avaliar função renal (creatinina) se uso de gadolínio",
+      "Perguntar sobre trombose venosa prévia ou fatores de risco (trombofilia, anticoncepcionais)",
+      "Informar tempo de exame: 20–35 minutos",
+      "Claustrofobia — explicar que a cabeça fica dentro do imã",
+      "Confirmar ausência de marca-passo convencional, DIU de cobre é compatível",
+      "Alertar que contraste será injetado para opacificar as veias"
+    ],
+    "anam": [
+      "Qual a indicação? (cefaleia, trombose venosa cerebral, avaliação de seios venosos?)",
+      "Cefaleia de início recente ou com padrão atípico?",
+      "Histórico de trombose venosa profunda ou superficial?",
+      "Episódios de convulsões, déficit neurológico focal?",
+      "Uso de anticoncepcionais orais, terapia hormonal (risco de TVC)?",
+      "Neoplasia ocultada (síndrome de Trousseau)?",
+      "Infecção sinusal recente ou mastoidite (risco de trombose de seio lateral)?"
+    ],
+    "triag": [
+      "Trombose venosa cerebral (TVC) — seios sagital superior, lateral, reto, jugular",
+      "Vedadores venosos (seios) — aplasia ou hipoplasia, causa de HTIC benigna",
+      "Mass effect sobre seios venosos por processos expansivos",
+      "Tromboflebite intracraniana — extensão de processo infeccioso",
+      "Colaterais venosos desenvolvidos — resultado de hipertensão intracraniana",
+      "Infartos venosos — padrão hemorrágico cortical, edema vasogênico"
+    ],
+    "prot": [
+      "2D/3D TOF venografia ou contraste com gadolínio 0,1 mmol/kg",
+      "3D T1 + saturação de gordura pós-contraste para avaliar trombose vs. recanalização",
+      "Sequências parenquimatosas: FLAIR, DWI para excluir infarto venoso",
+      "Incluir seios: sagital superior, lateral, reto, jugular",
+      "Reconstruções MIP e multiplanar para avaliar continuidade venosa",
+      "Avaliar edema, hemorragia ou infarto venoso associado"
+    ]
+  },
+  "cranio": {
+    "title": "RESSONÂNCIA MAGNÉTICA DE CRÂNIO",
+    "agend": [
+      "Não é necessário jejum para estudo sem contraste",
+      "Com contraste: jejum de 4 horas (prevenir náuseas/aspiração)",
+      "Avaliar função renal se gadolínio será usado (NSF)",
+      "Tempo de exame: 25–45 minutos",
+      "Claustrofobia — a cabeça fica totalmente dentro do imã",
+      "Confirmar ausência de marca-passo convencional (contraindicação absoluta)",
+      "Perguntar sobre implantes metálicos intracranianos (clipes de aneurisma, stents, bobina de estimulação)",
+      "Implantes cocleares — verificar compatibilidade com RM antes do exame"
+    ],
+    "anam": [
+      "Qual a indicação? (cefaleia, AVC, tumor, epilepsia, demência?)",
+      "Cefaleia de início recente, súbita ou com sinais neurológicos?",
+      "Déficits neurológicos focais (motor, sensitivo, linguagem)?",
+      "Crises convulsivas? Quando foram as últimas?",
+      "Perdas de consciência ou alterações de memória?",
+      "Histórico de neoplasia sistêmica com risco de metástase cerebral?",
+      "Doenças desmielinizantes conhecidas (esclerose múltipla)?"
+    ],
+    "triag": [
+      "Lesões expansivas intracranianas — glioma, meningioma, metástases, linfoma",
+      "Doenças desmielinizantes — placas de EM (periventricular, juxtacortical, infratentorial)",
+      "AVC isquêmico — avaliação de fase aguda (DWI), penumbra, core isquêmico",
+      "Hemorragia intracraniana — epidural, subdural, subaracnóidea, intraparenquimatosa",
+      "Malformações developmentais — Chiari, agenesia de corpo caloso, polimicrogiria",
+      "Hidrocefalia — dilatação ventricular, causa obstrutiva vs. comunicante"
+    ],
+    "prot": [
+      "Bobina de crânio phased-array",
+      "Sequências: FLAIR, DWI (b=0,1000), T1 spin-echo, T2 TSE, SWI (susceptibilidade)",
+      "Contraste: T1+MPRAGE pós-gadolínio 0,1 mmol/kg para lesões tumorais e inflamatórias",
+      "Avaliar fossa posterior e junção crânio-cervical para Chiari",
+      "Incluir órbitas e base do crânio na avaliação",
+      "Cortes axiais 5mm, coronais e sagitais quando indicado",
+      "SWI para micro-hemorragias, cavernoma, petéquias"
+    ]
+  }
+}

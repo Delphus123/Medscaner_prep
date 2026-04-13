@@ -1,0 +1,1 @@
+cd /home/hal9000/Projects/preparo-exames && python3 server.py &

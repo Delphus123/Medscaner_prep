@@ -587,13 +587,11 @@ let currentExamType = null;
         }
     }
 
-    resonanceBox.addEventListener('click', (e) => {
-        e.preventDefault();
+    resonanceInput.addEventListener('change', () => {
         toggleExamType(resonanceBox, resonanceInput, tomografiaBox, tomografiaInput);
     });
 
-    tomografiaBox.addEventListener('click', (e) => {
-        e.preventDefault();
+    tomografiaInput.addEventListener('change', () => {
         toggleExamType(tomografiaBox, tomografiaInput, resonanceBox, resonanceInput);
     });
 
